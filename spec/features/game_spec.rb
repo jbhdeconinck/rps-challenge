@@ -1,5 +1,7 @@
 # the game will choose a random option
 
+
+
 feature "game choose a random option when player go back to play" do
 
   scenario "player can choose Rock" do

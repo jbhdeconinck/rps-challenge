@@ -4,7 +4,10 @@ class Game
 
   COMBINATIONS =  [["Scissors","Paper"],
                   ["Rock","Scissors"],
-                  ["Paper","Rock"]]
+                  ["Paper","Rock"],
+                  ["Spock","Scissors"],
+                  ["Spock","Rock"],
+                  ["Paper","Spock"]]
 
   def initialize(player_option)
     @game = [player_option]
